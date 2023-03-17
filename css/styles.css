@@ -1,5 +1,6 @@
 .highlight {
   color: blue;
+  text-decoration: underline; color: black;
 }
 .mypic {
   width: 500px;
@@ -9,20 +10,26 @@
   padding: 10px;
   background-color: blanchedalmond;
 }
-* {
-  background-color: aqua;
-}
+
 .aboutme {
   color: yellow;
   background-color: red;
   font-size: 30px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 .Intro {
   color: firebrick;
   margin: 20px;
   border: 10px;
   padding: 2px;
-  font-size: 20px;
-  
-
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.body {
+  color: rgb(38, 0, 165);
+  background-color: rgb(234, 191, 21);
+  border: 10px;
+}
+* {
+  background-color: aqua;
 }
