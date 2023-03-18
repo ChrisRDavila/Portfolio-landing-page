@@ -4,7 +4,7 @@
 
 #### _A Portfolio Landing Page_
 
-## Technologies Used
+### Technologies Used
 
 * _HTML_
 * _CSS_
