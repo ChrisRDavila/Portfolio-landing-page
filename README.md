@@ -1,6 +1,6 @@
 # Portfolio
 
-####  _ **By Christopher Davila_
+####  _By Christopher Davila_
 
 #### _A Portfolio Landing Page_
 
