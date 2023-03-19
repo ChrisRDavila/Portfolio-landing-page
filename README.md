@@ -34,7 +34,6 @@ _This is a webpage to act as a portfolio for future refernces to my coding proje
 
 * _Unable to put body box background over whole page background_
 * _margins on top larger then side_
-* _Title showing up on page_
 * _too many div boxes for float_
 
 ## License
