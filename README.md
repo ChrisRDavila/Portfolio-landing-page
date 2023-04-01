@@ -35,6 +35,6 @@ This is a webpage to act as a portfolio for future refernces to my coding projec
 
 ## License
 
-[MIT](https://opensource.org/license/mit/)
+[MIT] (LICENSE.txt)
 
 Copyright (c) 2023 Christopher Davila
