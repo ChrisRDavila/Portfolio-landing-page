@@ -16,7 +16,7 @@
 
 ## Description
 
-This is a webpage to act as a portfolio for future refernces to my coding projects, both academic and professional. As my exprience expands I'm hoping the cataloged projects will demonstrate my capabilites and improvements over time.
+This is a webpage to act as a portfolio for future refernces to my coding projects, both academic and professional. As my exprience expands I'm hoping the cataloged projects will demonstrate my capabilites and improvements over time. First code reivew project to test html syntax and use of elements as well as CSS basics
 
 ## Setup/Installation Requirements
 
